@@ -1,15 +1,25 @@
 body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana}
+h1{
+    color:grey;
+    font-family:verdana;
+    text-align: center;
+}
 
 .maindiv {
     background-color:white;
     color: black;
-    width: 500px;
-    padding: 20px;
+    width: 350px;
+    padding: 50px;
     border-radius: 25px;
-    text-align: center;
     line-height: 2;
     margin: auto;
+    align-items: center;
 }
 
+.buttonclass {
+    text-align: center;
+}
 
+.resultdiv {
+    line-height: 1.6;
+}

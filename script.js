@@ -1,11 +1,5 @@
 function compute()
 {
-<<<<<<< HEAD
-    p = document.getElementById("principal").value;
-    
-}
-        
-=======
     // Decalre all variables to be used
 
     //variables inputted by user
@@ -44,4 +38,3 @@ function updateRate()
     document.getElementById("rate_val").innerText=rateval+"%";
 
 }
->>>>>>> develop

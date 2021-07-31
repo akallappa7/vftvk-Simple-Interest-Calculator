@@ -21,5 +21,9 @@ h1{
 }
 
 .resultdiv {
-    line-height: 1.6;
+    line-height: 1;
+}
+
+.footerdiv {
+    align-items: left;
 }
